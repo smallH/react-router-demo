@@ -4,7 +4,7 @@ class Four extends React.Component {
 	constructor(props) {
 		super(props);
 		this.state = {}
-		console.log(this.props);
+		console.log('Four');
 	}
 
 	render() {

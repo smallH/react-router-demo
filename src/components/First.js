@@ -4,7 +4,7 @@ class First extends React.Component {
 	constructor(props) {
 		super(props);
 		this.state = {}
-		console.log(this.props);
+		console.log('First');
 	}
 
 	render() {
